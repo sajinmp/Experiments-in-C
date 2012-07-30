@@ -1,3 +1,11 @@
+/* This is a program to find the sum of even numbers of fibanocci series upto a limit of 4 million. 
+
+You are free to edit modify or redistribute this program.
+
+Author  :  Sajin M Prasad
+Email   :  sajin_prasadkm@yahoo.co.in
+*/
+
 #include<string.h>
 #include<stdio.h>
 #include<math.h>
