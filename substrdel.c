@@ -1,3 +1,11 @@
+/*This is a program to find the substring in a string and delete it if the substring is found. 
+
+You are free to modify and redistribute this program.
+
+Author : Sajin M Prasad
+Email  : sajin_prasadkm@yahoo.co.in
+*/
+
 #include<stdio.h>
 #include<string.h>
 main()
